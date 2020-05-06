@@ -1,6 +1,12 @@
 body {
     padding-bottom: 90px;
 }
+#name {
+    margin-bottom: 0;
+}
+#main-chat-container {
+    margin-bottom: 50px;
+}
 nav {
     padding: 20px;
     border-bottom: 3px solid #cccccc;
@@ -11,4 +17,10 @@ img {
     height: auto;
     image-rendering: pixelated;
     image-rendering: -moz-crisp-edges;
+}
+.mb-50 {
+    margin-bottom: 50px;
+}
+.mt-50 {
+    margin-top: 50px;
 }
