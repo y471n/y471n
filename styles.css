@@ -24,3 +24,12 @@ img {
 .mt-50 {
     margin-top: 50px;
 }
+#footer-container {
+    text-align: center;
+    color: #cccccc;
+    font-size: 1rem;
+}
+.mh-0 {
+  margin-left: 0 !important;  
+  margin-right: 0 !important;
+}
