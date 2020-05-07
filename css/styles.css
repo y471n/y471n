@@ -1,6 +1,6 @@
 body {
     padding-bottom: 90px;
-    background-image: url('images/wall/email-pattern.png');
+    background-image: url('../images/wall/email-pattern.png');
     background-repeat: repeat;
 }
 #name {
