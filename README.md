@@ -1,3 +1,3 @@
-# My Website
+# Yatin's Personal Homepage
 
-Build using Nes-CSS and Flexbox-CSS.
+Feel free to raise a PR :wink:
