@@ -1,0 +1,52 @@
+label {
+  color: #808080;
+  font-size: 0.75rem;
+}
+p {
+  margin-top: 0;
+  line-height: 1.2;
+}
+.role {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #474747;
+}
+.work {
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  /* color: #2c2c2c; */
+  color: #808080;
+}
+ul {
+  margin: 0;
+  padding-left: 0;
+  padding-top: 0.3rem;
+}
+ul::before {
+  content: "- ";
+}
+h2 {
+  color: #808080;
+  font-family: "Zen Tokyo Zoo", cursive;
+  font-weight: 400;
+  margin: 3rem 0 1rem;
+}
+.summary {
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  color: #808080;
+}
+h3 {
+  color: #474747;
+  font-weight: 500;
+  font-size: 1rem;
+  margin: 0;
+}
+.college {
+  font-size: 1.1rem;
+  color: #808080;
+}
+
+section {
+  margin: 1rem 0;
+}

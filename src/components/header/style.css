@@ -1,0 +1,18 @@
+h1 {
+  font-family: "Zen Tokyo Zoo", cursive !important;
+  font-weight: 400;
+  font-size: 3rem;
+}
+li {
+  display: inline;
+  padding-right: 0.85rem;
+}
+a {
+  font-weight: 400;
+  color: #808080;
+  text-decoration: none;
+}
+.active {
+  font-weight: 900;
+  color: #5b87ae;
+}
