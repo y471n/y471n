@@ -1,30 +1,39 @@
-## 🚀 About Me
+<h1 align="center">👋 Hi there, I'm Yatin!</h1>
 
-👋 Hi! I joined GitHub **{{ ACCOUNT_AGE }}** years ago.
-
-Since then, I have:  
-🔥 Pushed **{{ TOTAL_COMMITS }}** commits  
-🐛 Opened **{{ TOTAL_ISSUES }}** issues  
-🔄 Submitted **{{ TOTAL_PULLS }}** pull requests  
-🌟 Received **{{ TOTAL_STARS }}** stars across **{{ TOTAL_REPOS }}** repositories  
-🛠️ Contributed to **{{ CONTRIBUTED_TO }}** repositories
+🌟 **Passionate Developer | Tech Enthusiast** 🌟
 
 ---
 
-### 📊 My GitHub Stats
+## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=y471n&show_icons=true&theme=radical)
-
-### 🚀 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y471n&layout=compact&theme=tokyonight)
-
-### 🏆 Contributions & Achievements
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=y471n&theme=dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=y471n&theme=react-dark)
+📊 **My GitHub Metrics at a Glance:**  
+![Metrics](https://github.com/y471n/y471n/blob/main/github-metrics.svg)
 
 ---
 
-💡 This profile updates **automatically** every 24 hours with real-time stats!
+## 📈 Contributions
+
+<details>
+  <summary>🔥 My GitHub Streak</summary>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=y471n&theme=radical&hide_border=true" />
+  </p>
+</details>
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Languages](https://github.com/y471n/github-metrics/blob/main/languages.svg)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=y471n&theme=dracula&column=4)
+
+---
+
+## 💬 Let's Connect!
+
+🔗 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/yatinpy/)
