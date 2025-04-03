@@ -36,4 +36,4 @@
 
 ## 💬 Let's Connect!
 
-🔗 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/yatinpy/)
+🔗 LinkedIn: [https://www.linkedin.com/in/yatinpy/](https://www.linkedin.com/in/yatinpy/)
