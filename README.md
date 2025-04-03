@@ -6,31 +6,27 @@
 
 ## 🚀 GitHub Stats
 
-📊 **My GitHub Metrics at a Glance:**  
 ![Metrics](https://github.com/y471n/y471n/blob/main/github-metrics.svg)
 
 ---
 
-## 📈 Contributions
+## 🔥 Contributions & Streak
 
-<details>
-  <summary>🔥 My GitHub Streak</summary>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=y471n&theme=radical&hide_border=true" />
-  </p>
-</details>
+![Streak](https://github.com/y471n/y471n/blob/main/metrics.plugin.isocalendar.svg)
 
 ---
 
-## 🔥 Most Used Languages
+## 📊 Most Used Languages
 
-![Top Languages](https://github.com/y471n/github-metrics/blob/main/languages.svg)
+![Top Languages](https://github.com/y471n/y471n/blob/main/metrics.plugin.languages.svg)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Activity
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=y471n&theme=dracula&column=4)
+![Achievements](https://github.com/y471n/y471n/blob/main/metrics.plugin.achievements.svg)
+
+![Repositories](https://github.com/y471n/y471n/blob/main/metrics.plugin.repositories.svg)
 
 ---
 
